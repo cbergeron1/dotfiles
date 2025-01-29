@@ -1,3 +1,5 @@
+# TODO: Migrate to .zshrc
+
 #!/usr/bin/env bash
 
 # Easier navigation: .., ..., ...., ....., ~ and -

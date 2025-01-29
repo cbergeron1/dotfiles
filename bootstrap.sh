@@ -4,8 +4,6 @@ cd "$(dirname "${BASH_SOURCE}")";
 
 git pull origin main;
 
-mkdir ${HOME}/Screenshots 
-
 function doIt() {
 	rsync --exclude ".git/" \
 		--exclude ".DS_Store" \

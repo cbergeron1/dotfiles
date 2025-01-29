@@ -1,3 +1,5 @@
+# Migrate these to .zshrc
+
 #!/usr/bin/env bash
 
 # Make vim the default editor.

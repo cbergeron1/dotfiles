@@ -27,6 +27,7 @@ BREW_FORMULA=(
 	neovim
 	curl
 	m-cli	
+	rectangle
 )
 
 FAILED_FORMULA=()
